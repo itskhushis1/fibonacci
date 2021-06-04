@@ -5,9 +5,7 @@
 using namespace std;
  
 ll fib[1000] = {0};
-/* 
- * Fibonacci Numbers using Dp
- */
+
 ll fibo_dp(int n)
 {
     fib[1] = 1;
