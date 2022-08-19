@@ -3,7 +3,6 @@
 #include <cstdlib>
 #define ll long long
 using namespace std;
-
 ll fib[1000] = {0};
 
 ll fibo_dp(int n)
